@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-C3web::Application.config.secret_token = 'hunter2hunter2hunter2hunter2hunter2hunter2hunter2hunter2'
+C3web::Application.config.secret_token = 'WEmodifiedtheseceretthisexamplshdu21745389^$@#!BSTB&@D&TD^*@R^76r'
